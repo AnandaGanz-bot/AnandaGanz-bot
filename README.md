@@ -37,15 +37,7 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api?username=Ananda-Ganz&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/zeeoneofc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananda_Ganz&theme=radical&layout=compact"></a></p> 
-
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=kanna-wabot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=bot-tzy&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=wabot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=zeeone-ofc&repo=games-wabot&theme=nightowl)
-
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
