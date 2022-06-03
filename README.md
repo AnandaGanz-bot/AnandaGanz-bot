@@ -2,7 +2,7 @@
   <img src="https://github.com/AnandaGanz-bot.png" />
 </p>
 
-### Hi.
+### skill
 
 ---------
 
@@ -12,7 +12,7 @@
 
 --------
 
-![「Annda」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![「Ananda」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
