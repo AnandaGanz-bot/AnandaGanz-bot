@@ -1,6 +1,30 @@
-<h1 align="center">Hallo Banh🗿 
 <p align="center">
   <img src="https://github.com/AnandaGanz-bot.png" />
+</p>
+
+### Hi.
+
+---------
+
+<p align="center">
+  <a href="https://github.com/AnandaGanz-bot"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaGanz-bot&theme=tokyonight&layout=compact" /></a>
+</p>
+
+--------
+
+![「Annda」](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![© Ananda](https://github-profile-trophy.vercel.app/?username=AnandaGanz-bot)
+
+</details>
+
+
+## Visitor 
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Rlxfly?theme=gelbooru-h" alt="visitor.svg">
 </p>
 
 <p align="center">
@@ -42,7 +66,7 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Ananda_)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AnandaGanz-bot_)
 
 </details> 
 
