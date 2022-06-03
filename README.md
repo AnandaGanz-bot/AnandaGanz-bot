@@ -29,7 +29,7 @@
 
 <p align="center">
 
-- 👤 My name iAnanda
+- 👤 My name Ananda
 - 💌 I am 15 years old 
 - 👨‍💻 I am not programmer
 
@@ -46,7 +46,7 @@
 
 ### Mobile Legends🎮
 <p align="center">
-  <img src="https://github.com/AnandaGanz-bot/AnandaGanz-bot/STK-20220228-WA0420.webp" />
+  <img src="./STK-20220228-WA0420.webp" />
 </p>
 
 ------
